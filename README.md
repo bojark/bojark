@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bojark
+- 👀 I’m interested in Java, C#, Unity, 3D design and shoegazing
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on game moding and development projects
+- 📫 How to reach me: https://t.me/hawthorn
